@@ -1,0 +1,7 @@
+{
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.dataScience.jupyterServerURI": "local",
+    "python.pythonPath": "C:\\Users\\ted_pc_2018\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+}
